@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bilal-Alqtrawi
-- 👀 I’m interested in web design and programming.
-- 🌱 I’m currently learning  web design(Front-End).
+- 👀 I’m interested in web developer and programming.
+- 🌱 I’m currently learning the track of (Front-End).
 - Connect with me via Twitter and Instagram.
 - bilal.7lqtrawi(Insta) + @bilal_7lqtrawi(Twitter).
 <!---
